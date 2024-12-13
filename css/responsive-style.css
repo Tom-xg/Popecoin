@@ -1,0 +1,928 @@
+/*Screen Size 2100px*/
+@media only screen and (max-width: 2100px) {
+  /*Header*/
+  .header-content .arow {
+    position: absolute;
+    right: 455px;
+    top: 570px;
+    width: 15%;
+    transition: 0.2s ease;
+  }
+  /*Community*/
+  .c-bottom-frame {
+    bottom: -156px;
+  }
+  /*Pepcoin Section*/
+  .p-token-sec .p-btn-box {
+    right: 252px;
+    transition: 0.2s ease;
+  }
+}
+
+/*Screen Size 2050px*/
+@media only screen and (max-width: 2050px) {
+  /*Pepecoin Section*/
+  .p-token-sec .p-btn-box {
+    right: 232px;
+  }
+}
+/*Screen Size 2000px*/
+@media only screen and (max-width: 2000px) {
+  /*Pepecoin Section*/
+  .p-token-sec .p-btn-box {
+    right: 72px;
+  }
+  /*Community*/
+  .c-top-frame {
+    top: -95px;
+  }
+  .c-bottom-frame {
+    bottom: -130px;
+  }
+  /*Popecoin Section*/
+  .p-token-sec .p-btn-box {
+    right: 210px;
+  }
+}
+/*Screen Size 1950px*/
+@media only screen and (max-width: 1950px) {
+  /*Pepecoin Section*/
+  .p-token-sec .p-btn-box {
+    right: 190px;
+  }
+}
+/*Screen Size 1900px*/
+@media only screen and (max-width: 1900px) {
+  /*Header*/
+  .header-content .arow {
+    position: absolute;
+    right: 404px;
+
+    /*Pepecoin Section*/
+    .p-token-sec .p-btn-box {
+      right: 36px;
+    }
+  }
+}
+/*Screen Size 1850px*/
+@media only screen and (max-width: 1850px) {
+  /*Pepecoin Section*/
+  .p-token-sec .p-btn-box {
+    right: 148px;
+  }
+}
+/*Screen Size 1800px*/
+@media only screen and (max-width: 1800px) {
+  /*Pepecoin Section*/
+  .p-token-sec .p-btn-box {
+    right: 3px;
+  }
+  .header-content .arow {
+    right: 380px;
+    top: 560px;
+    transition: 0.2s ease;
+  }
+  /*Pepcoin Section*/
+  .pepcoin-left p {
+    font-size: 24px;
+    transition: 0.2s ease;
+  }
+  .pepcoin-right h1 {
+    font-size: 85px;
+    transition: 0.2s ease;
+  }
+  .p-token-sec .p-btn-box {
+    right: 127px;
+  }
+}
+
+/*Screen Size 1750px*/
+@media only screen and (max-width: 1750px) {
+  /*Header*/
+  .header-content h1 {
+    font-size: 190px;
+  }
+  .header-content .arow {
+    right: 300px;
+  }
+  /*Pepcoin Section*/
+  .p-token-sec .p-btn-box {
+    right: 107px;
+  }
+}
+.p-token-sec p {
+  left: 218px;
+  font-size: 15px;
+}
+.p-token-sec button {
+  left: 405px;
+  top: -67px;
+}
+
+/*Screen Size 1700px*/
+@media only screen and (max-width: 1700px) {
+  .p-token-sec .p-btn-box {
+    right: 85px;
+  }
+}
+/*Screen Size 1680px*/
+@media only screen and (max-width: 1680px) {
+  /*Pepcoin Section*/
+  .p-token-sec .p-btn-box {
+    right: -40px;
+  }
+  /*Popecoin Section*/
+  .p-token-sec .p-btn-box {
+    right: 77px;
+  }
+}
+
+/*Screen Size 1600px*/
+@media only screen and (max-width: 1600px) {
+  /*Header*/
+  .p-token-sec .p-text-box {
+    position: absolute;
+    left: 187px;
+  }
+  .header-left .logo {
+    width: 80%;
+    transition: 0.2s ease;
+  }
+  header a h3 {
+    font-size: 38px;
+  }
+  .hero-img-sec .hero-img {
+    width: 625px;
+    height: 595px;
+    margin-top: 20px;
+  }
+  .header-content h1 {
+    font-size: 160px;
+    transition: 0.2s ease;
+  }
+  .header-content .arow {
+    right: 290px;
+    top: 480px;
+  }
+  /*Tokenomic*/
+  .tokenomic .token-top-frame {
+    top: -120px;
+  }
+  /*Community*/
+  .community {
+    background: url(/images/community/c-bg.png) no-repeat 100% 668px #eefee3;
+  }
+  /*Popecoin Section*/
+  .p-token-sec .p-btn-box {
+    right: 45px;
+  }
+  .p-token-sec button {
+    left: 400px;
+    top: -65px;
+    font-size: 18px;
+    transition: 0.2s ease;
+  }
+  .p-token-sec .p-text-box {
+    position: absolute;
+    left: 205px;
+  }
+}
+
+/*Screen Size 1550px*/
+@media only screen and (max-width: 1550px) {
+  /*Header*/
+  .hero-img-sec .hero-img {
+    margin-top: 25px;
+    transition: 0.2s ease;
+  }
+  .header-content h1 {
+    font-size: 150px;
+  }
+  .header-content .arow {
+    right: 280px;
+  }
+  /*Popecoin Section*/
+  .p-token-sec .p-btn-box {
+    right: 22px;
+  }
+  .p-token-sec button {
+    left: 400px;
+    top: -65px;
+    font-size: 16px;
+    transition: 0.2s ease;
+  }
+}
+
+/*Screen Size 1500px*/
+@media only screen and (max-width: 1500px) {
+  /*Header*/
+  .header-left .logo {
+    width: 60%;
+    transition: 0.2s ease;
+  }
+  header a h3 {
+    font-size: 32px;
+    transition: 0.2s ease;
+  }
+  header .birds {
+    position: absolute;
+    left: 260px;
+    top: 150px;
+  }
+  .header-content .arow {
+    right: 260px;
+    top: 45%;
+  } /*Community*/
+
+  .c-top-frame {
+    top: -88px;
+    transition: 0.2s ease;
+  }
+  .c-bottom-frame {
+    bottom: -115px;
+    transition: 0.2s ease;
+  }
+  /*Popecoin Section*/
+  .pepcoin .row {
+    text-align: center;
+    justify-content: center;
+    transition: 0.2s ease;
+  }
+  .p-token-sec .p-btn-box {
+    right: 0;
+    transition: 0.2s ease;
+  }
+
+  .p-token-sec button {
+    left: 383px;
+    top: -62px;
+    font-size: 16px;
+    transition: 0.2s ease;
+  }
+}
+/*Screen Size 1450px*/
+@media only screen and (max-width: 1450px) {
+  .p-token-sec .p-btn-box {
+    right: -117px;
+  }
+  .p-token-sec button {
+    left: 430px;
+    top: -75px;
+  }
+  /*Community */
+  .p-token-sec .p-btn-box {
+    right: -17px;
+  }
+}
+
+/*Screen Size 1400px*/
+@media only screen and (max-width: 1400px) {
+  /*Header*/
+
+  .header-content .arow {
+    right: 270px;
+  }
+  .copy-btn-box {
+    margin-left: 255px;
+    transition: 0.2s ease;
+  }
+  .copy-btn-box button {
+    left: 35%;
+  }
+  .copy-content-box {
+    margin-top: 30px;
+  }
+  /*Tokenomic*/
+  .tokenomic h1 {
+    font-size: 80px;
+  }
+  .tokenomic ul li p {
+    font-size: 40px;
+  }
+  /*Community*/
+  .community {
+    background: url(/images/community/c-bg.png) no-repeat 100% 595px #eefee3;
+  }
+  /*Popecoin Section*/
+  /*Community */
+  .p-token-sec .p-btn-box {
+    right: -39px;
+  }
+  .p-token-sec button {
+    left: 430px;
+    top: -65px;
+  }
+  .pepcoin-left p {
+    font-size: 20px;
+  }
+  .pepcoin h1 {
+    font-size: 75px;
+    transition: 0.2s ease;
+  }
+}
+
+/*Screen Size 1350px*/
+@media only screen and (max-width: 1350px) {
+  /*Header*/
+  .header-content h1 {
+    font-size: 120px;
+    transition: 0.2s ease;
+  }
+  .hero-img-sec .hero-img {
+    width: 510px;
+    height: 490px;
+    margin-top: 60px;
+    transition: 0.2s ease;
+  }
+  header .birds {
+    display: none;
+  }
+  /*Tokenomic*/
+  .tokenomic .token-top-frame {
+    top: -105px;
+  }
+  /*Community */
+  .community .c-bottom-frame {
+    bottom: -130px;
+  }
+  /*Popecoin Section*/
+  .pepcoin .row {
+    display: block;
+  }
+  .pepcoin-left {
+    text-align: center;
+  }
+  .pepcoin-right {
+    text-align: center;
+  }
+  .p-token-sec .p-text-box {
+    display: none;
+  }
+  .p-token-sec p {
+    display: none;
+  }
+  .p-token-sec .p-btn-box {
+    right: -56px;
+  }
+  .p-token-sec button {
+    left: 383px;
+    top: -67px;
+    font-size: 19px;
+  }
+}
+
+/*Screen Size 1300px*/
+@media only screen and (max-width: 1300px) {
+  /*Tokenomic*/
+  .community .c-text-img {
+    width: 90%;
+  }
+  .c-top-frame {
+    top: -90px;
+  }
+  .c-bottom-frame {
+    bottom: -95px;
+  }
+  .c-bg {
+    padding-top: 80px;
+    width: 80%;
+  }
+  /*Popecoin Section*/
+  .p-token-sec .p-btn-box {
+    right: -81px;
+  }
+  .p-token-sec button {
+    left: 413px;
+    top: -81px;
+  }
+}
+
+/*Screen Size 1200px*/
+@media only screen and (max-width: 1200px) {
+  /*Header*/
+  header .copy-content-box {
+    display: block;
+    margin-top: 25px;
+  }
+  .header-content .arow {
+    right: 250px;
+  }
+
+  .copy-btn-box {
+    margin-left: 208px;
+  }
+  .copy-btn-box button {
+    left: 28%;
+  }
+  /*Tokenomic*/
+  .tokenomic .token-top-frame {
+    top: -90px;
+  }
+  .tokenomic h1 {
+    font-size: 65px;
+  }
+  .tokenomic ul li p {
+    font-size: 32px;
+  }
+  .tokenomic .token-number {
+    margin-top: -85px;
+  }
+  .tokenomic {
+    padding: 100px 0 0;
+  }
+  .tokenomic .t-cloud {
+    top: 20px;
+    width: 15%;
+  }
+  /*Cummunity*/
+  .community {
+    background: url(/images/community/c-bg.png) no-repeat 100% 490px #eefee3;
+  }
+  /**Pepcoin Section*/
+  .p-token-sec .p-btn-box {
+    display: none;
+  }
+  .pepcoin-left p {
+    transform: rotate(0);
+  }
+  .pepcoin-right h1 {
+    transform: rotate(0);
+  }
+  .p-token-sec {
+    padding-bottom: 100px;
+  }
+
+  .p-token-sec button {
+    background: #a4f3ac;
+    transform: rotate(0);
+    width: 20%;
+    stroke-width: 2px;
+    stroke: #000;
+    filter: drop-shadow(3px 3px 0px #000);
+    border: 1px solid #000;
+    padding: 15px 10px;
+    transform: translateX(-50%);
+  }
+  .p-token-sec .p-token-copy {
+    left: 214px;
+  }
+  .p-token-copy p span {
+    font-size: 18px;
+  }
+  .p-token-copy p {
+    font-size: 16px;
+  }
+  .pepcoin .p-token-box {
+    display: none;
+  }
+  .pepcoin .p-token-copy {
+    background: #fff;
+    stroke-width: 2px;
+    stroke: #000;
+    filter: drop-shadow(3px 3px 0px #000);
+    transform: rotate(0);
+    border: 1px solid #000;
+    transform: translateX(-50%);
+    left: 50%;
+    padding: 15px 10px;
+    width: 100%;
+    flex-wrap: wrap;
+    overflow: hidden;
+  }
+}
+
+/*Screen Size 1150px*/
+@media only screen and (max-width: 1150px) {
+  /*Header*/
+  .hero-img-sec .hero-img {
+    width: 460px;
+    height: 452px;
+  }
+  .header .header-right .header-icons {
+    margin-right: 0;
+  }
+  .header-content .arow {
+    right: 235px;
+  }
+  header a h3 {
+    margin-left: -70px;
+  }
+  /*Community*/
+  .c-top-frame {
+    top: -80px;
+  }
+  .c-bottom-frame {
+    bottom: -90px;
+  }
+  /*Popecoin Section*/
+  .pepcoin {
+    padding-bottom: 0;
+  }
+}
+/*Screen Size 1100px*/
+
+@media only screen and (max-width: 1100px) {
+  /*Community*/
+  .c-bottom-frame {
+    bottom: -104px;
+  }
+  /*Popecoin Section*/
+  .pepcoin .p-token-copy {
+    top: 0px;
+    flex-wrap: wrap;
+  }
+}
+/*Screen Size 1050px*/
+@media only screen and (max-width: 1050px) {
+  /*Header*/
+
+  header a h3 {
+    margin-left: -90px;
+    font-size: 28px;
+  }
+  .header-content h1 {
+    font-size: 110px;
+  }
+  .hero-img-sec .hero-img {
+    width: 420px;
+    height: 410px;
+    margin-top: 80px;
+  }
+  .header-content .arow {
+    right: 200px;
+    top: 320px;
+  }
+  .copy-content-box p {
+    margin-bottom: 0;
+    padding: 20px 20px;
+  }
+
+  /*Tokenomic*/
+  .tokenomic .token-top-frame {
+    top: -75px;
+  }
+}
+
+/*Screen Size 992px*/
+@media only screen and (max-width: 992px) {
+  /*Header*/
+
+  .header-content h1 {
+    font-size: 90px;
+    margin: 0;
+    transform: rotate(0);
+  }
+  .hero-img-sec .hero-img {
+    width: 370px;
+    height: 360px;
+    margin-top: -100px;
+    transform: rotate(0);
+  }
+
+  .header-left .logo {
+    width: 40%;
+  }
+  header a h3 {
+    margin-left: -150px;
+    font-size: 24px;
+  }
+  .header .header-right ul li a img {
+    padding: 8px 8px;
+  }
+  .header-content .arow {
+    display: none;
+  }
+  header .banner-left {
+    display: none;
+  }
+  .copy-sec {
+    top: 95%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .copy-btn-box {
+    transform: skew(0);
+    text-align: center;
+    margin-left: 0;
+    width: 50%;
+    padding: 37px 20px;
+    margin: 0 auto;
+  }
+  .copy-btn-box button {
+    transform: rotate(0);
+    font-size: 18px;
+    left: 12%;
+  }
+  header .copy-content-box {
+    transform: skew(0);
+    margin-top: 10px;
+  }
+  .copy-content-box p {
+    padding: 15px 20px;
+  }
+  /*Tokenomic*/
+  .tokenomic {
+    background: url(/images/tokenomics/t-vector.svg) no-repeat -130px -215px /
+        97%,
+      url(/images/tokenomics/t-stars.png) #e3ffe7;
+    padding: 60px 0 0;
+  }
+  .tokenomic .t-cloud {
+    display: none;
+  }
+  .token-main-bg {
+    width: 70%;
+  }
+  .tokenomic h1 {
+    font-size: 60px;
+    transform: rotate(0);
+  }
+  .tokenomic ul li p {
+    font-size: 28px;
+  }
+  .tokenomic .token-number {
+    width: 50%;
+    transform: rotate(0);
+  }
+  /*Community*/
+  .community {
+    background: url(/images/community/c-bg.png) no-repeat 0 0/0 0 #eefee3;
+    padding-bottom: 0;
+  }
+  .community-left {
+    text-align: center;
+  }
+  .community-right {
+    text-align: center;
+  }
+  .c-bg {
+    padding-top: 60px;
+    width: 60%;
+  }
+  .community .c-text-img {
+    width: 70%;
+  }
+  .c-bottom-frame {
+    bottom: -70px;
+  }
+  .c-cloud {
+    display: none;
+  }
+  .c-bottom-frame {
+    bottom: -116px;
+  }
+  /*Popecoin Section*/
+  .pepcoin {
+    padding-top: 120px;
+    padding-bottom: 10px;
+  }
+  .p-token-sec button {
+    left: 50%;
+    font-size: 16px;
+    padding: 9px 0;
+  }
+  .pepcoin-left p {
+    font-size: 18px;
+  }
+  .pepcoin h1 {
+    font-size: 65px;
+  }
+
+  .pepcoin .p-token-copy {
+    width: 70%;
+    padding: 10px 8px;
+  }
+  .pepcoin .p-token-copy p {
+    font-size: 14px;
+  }
+  .pepcoin .b-right {
+    display: none;
+  }
+  .footer .b-left-img {
+    display: none;
+  }
+}
+
+/*Screen Size 900px*/
+@media only screen and (max-width: 900px) {
+  /*Tokenomic*/
+  .tokenomic .token-top-frame {
+    top: -70px;
+  }
+  /*Community*/
+  .community-left .c-bg {
+    padding-top: 30px;
+    width: 45%;
+  }
+  .community .c-text-img {
+    width: 45%;
+  }
+}
+
+/*Screen Size 768px*/
+@media only screen and (max-width: 768px) {
+  /*Header*/
+  .header-content h1 {
+    font-size: 70px;
+    margin-top: -10px;
+  }
+  .hero-img-sec .hero-img {
+    width: 310px;
+    height: 300px;
+    margin-top: -80px;
+  }
+  .copy-btn-box button {
+    transform: rotate(0);
+    font-size: 14px;
+    left: 30%;
+    top: 5px;
+  }
+  .copy-btn-box {
+    width: 100%;
+    padding: 33px 20px;
+  }
+  /*Tokenomic*/
+  .tokenomic .token-top-frame {
+    top: -60px;
+  }
+  .tokenomic {
+    background: url(/images/tokenomics/t-vector.svg) no-repeat 0 0 / 0,
+      url(/images/tokenomics/t-stars.png) #e3ffe7;
+    padding: 20px 0 0;
+  }
+  .tokenomic h1 {
+    font-size: 50px;
+  }
+  .tokenomic ul li p {
+    font-size: 24px;
+  }
+  .tokenomic .token-number {
+    margin-top: -70px;
+  }
+  /*Community*/
+
+  .community-icons {
+    background: url(/images/community/text-frame.gif) no-repeat 47% 44% / 10%;
+    background-size: 263px;
+    padding: 30px 0;
+  }
+  .community-icons ul li a img {
+    padding: 8px 8px;
+  }
+  .community .c-bottom-frame {
+    bottom: -110px;
+  }
+  /*Popecoin*/
+  .pepcoin-left p span {
+    font-size: 22px;
+  }
+  .pepcoin-left p {
+    font-size: 16px;
+  }
+  .pepcoin-right h1 {
+    font-size: 50px;
+  }
+}
+
+/*Screen Size 700px*/
+@media only screen and (max-width: 700px) {
+  /*Header*/
+  .header-left .logo {
+    width: 35%;
+  }
+  header a h3 {
+    margin-left: -162px;
+    font-size: 22px;
+  }
+  .header .header-right ul li a img {
+    padding: 5px 5px;
+  }
+  .header-content h1 {
+    font-size: 60px;
+    margin-top: 0px;
+  }
+  .hero-img-sec .hero-img {
+    width: 290px;
+    height: 275px;
+  }
+  /*Tokenomic*/
+  .token-main-bg {
+    width: 50%;
+  }
+  .tokenomic h1 {
+    font-size: 38px;
+    margin-bottom: 15px;
+  }
+  .tokenomic ul li p {
+    font-size: 18px;
+  }
+  .tokenomic .token-number {
+    width: 40%;
+  }
+  .tokenomic .token-top-frame {
+    top: -56px;
+  }
+  /*Community*/
+  .c-top-frame {
+    top: -50px;
+  }
+  .c-bottom-frame {
+    bottom: -75px;
+  }
+  .community-icons ul li a img {
+    padding: 5px 5px;
+  }
+  .community-icons {
+    background-size: 220px;
+    padding: 24px 0;
+  }
+  .community .c-bottom-frame {
+    bottom: -115px;
+  }
+}
+
+/*Screen Size 590px*/
+@media only screen and (max-width: 590px) {
+  /*Header*/
+  header a h3 {
+    margin-left: -180px;
+    font-size: 16px;
+  }
+  .header .header-right ul li a img {
+    padding: 3px 3px;
+  }
+  .header-content h1 {
+    transform: rotate(0);
+    font-size: 42px;
+  }
+  .hero-img-sec .hero-img {
+    transform: rotate(0);
+    margin-top: -50px;
+
+    width: 250px;
+    height: 240px;
+  }
+  header a h3 {
+    display: none;
+  }
+
+  /*Tokenomic*/
+  .tokenomic .token-top-frame {
+    top: -50px;
+  }
+  .tokenomic h1 {
+    font-size: 32px;
+    margin-bottom: 8px;
+  }
+  .tokenomic ul li p {
+    font-size: 14px;
+    line-height: 100%;
+  }
+  .tokenomic .token-number {
+    width: 30%;
+  }
+  .tokenomic .token-top-frame {
+    top: -40px;
+  }
+  /*Community*/
+  .community .c-bottom-frame {
+    bottom: -96px;
+  }
+}
+/*Screen Size 450px*/
+@media only screen and (max-width: 450px) {
+  /*Community*/
+  .c-bottom-frame {
+    bottom: -88px;
+  }
+  .community .c-bottom-frame {
+    bottom: -90px;
+  }
+  .community-icons {
+    background-size: 200px;
+    padding: 20px 0;
+  }
+  .community-icons ul li a img {
+    padding: 3px 3px;
+  }
+}
+
+/*Screen Size 400px*/
+@media only screen and (max-width: 400px) {
+  /*Header*/
+  .copy-btn-box {
+    padding: 30px 0;
+  }
+  .copy-btn-box button {
+    font-size: 13px;
+    left: 25%;
+    top: 4px;
+  }
+  .copy-content-box p {
+    padding: 8px 8px;
+    font-size: 13px;
+  }
+  .copy-content-box p span {
+    font-size: 18px;
+  }
+}
